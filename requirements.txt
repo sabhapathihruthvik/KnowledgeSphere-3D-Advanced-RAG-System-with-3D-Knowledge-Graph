@@ -1,0 +1,11 @@
+streamlit
+neo4j
+langchain
+langchain_groq
+networkx
+pyvis
+plotly
+huggingface-hub
+pydantic
+PyPDF2
+pyyaml
